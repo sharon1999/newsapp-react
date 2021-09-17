@@ -1,0 +1,23 @@
+[33mcommit a2fcc76441a39ea3f793adfe1c74184fa809075d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Sharon Antony <sharonantony51@gmail.com>
+Date:   Thu Sep 16 11:42:05 2021 +0530
+
+    Added more features
+
+[33mcommit 46b173d409b3bcaa013d214ea2f8780969779145[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Sharon Antony <sharonantony51@gmail.com>
+Date:   Wed Sep 15 18:31:56 2021 +0530
+
+    First Commit
+
+[33mcommit 9ee11e2b73eac0d971e04ff8ed2f673d1d9576c6[m
+Author: Sharon Antony <sharonantony51@gmail.com>
+Date:   Wed Sep 15 18:23:50 2021 +0530
+
+    first commit
+
+[33mcommit 64427fa1864b0454f155e458da4708dbfbcb2299[m
+Author: Sharon Antony <sharonantony51@gmail.com>
+Date:   Wed Sep 15 10:24:45 2021 +0530
+
+    Initialize project using Create React App
